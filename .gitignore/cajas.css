@@ -1,0 +1,48 @@
+
+
+body{
+	background-image: url("develop.jpg");
+
+}
+
+h2{
+font-family: 'PT Mono', monospace;
+	font-size: 30px;
+	background-image: url("asd.jpg");
+	color:white;
+	text-align-last: center;
+}
+
+h3{
+font-family: 'PT Mono', monospace;
+	text-align: center;
+	color: white;
+}
+
+
+img{
+
+	border-radius: 50%;
+	width: 150px;
+	border: 5px solid white;
+}
+
+#foto {
+	border-image: 5px;
+	border-color: white;
+	width: 50px;
+	height: 80px;
+	shape-outside: circle(5px);
+}
+
+div.foto{
+
+	border-image-width: 5px;
+	height: 100px;
+	width: 100px;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+	background-size: auto;
+	border-width: 5px;
+	border-color: white;
+}
